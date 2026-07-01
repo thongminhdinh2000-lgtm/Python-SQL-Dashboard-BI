@@ -1,1 +1,1 @@
-# dashboard-pdf-insight
+# dashboard-insight-pdf
