@@ -1,1 +1,1 @@
-# dashboard-insight-pdf
+# Dự án được phát triển từ công việc thực tế, được xây dựng nhằm mục đích giới thiệu kỹ năng. Do yêu cầu bảo mật, một số dữ liệu, mã nguồn và cấu hình đã được ẩn, thay thế hoặc đơn giản hóa (database, API, thông tin khách hàng, cấu hình...) để bảo vệ thông tin nội bộ của doanh nghiệp.
