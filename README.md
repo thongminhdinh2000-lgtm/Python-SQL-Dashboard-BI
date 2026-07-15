@@ -50,6 +50,7 @@ Dashboard bao gồm các chỉ số:
 - Tăng trưởng doanh thu.
 - Forecast doanh thu.
 - KPI doanh thu.
+- ...
 
 ---
 
@@ -65,6 +66,7 @@ Dashboard hỗ trợ trả lời các câu hỏi kinh doanh như:
 - Doanh thu từng siêu thị thay đổi như thế nào theo thời gian?
 - Doanh thu tháng tới được dự báo bao nhiêu?
 - Siêu thị nào cần được ưu tiên cải thiện hiệu quả kinh doanh?
+- ...
 
 ---
 
