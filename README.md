@@ -2,7 +2,8 @@
 
 ## 📌 Giới thiệu
 
-Dự án được xây dựng nhằm theo dõi hiệu quả kinh doanh của từng siêu thị trong khu vực thông qua hệ thống Dashboard trực quan. Dashboard hỗ trợ nhà quản lý theo dõi doanh thu, cơ cấu ngành hàng, nhóm hàng và dự báo doanh thu để đưa ra quyết định kinh doanh kịp thời.
+Dự án được xây dựng nhằm theo dõi hiệu quả kinh doanh của từng siêu thị trong khu vực thông qua hệ thống Dashboard trực quan. Dashboard hỗ trợ nhà quản lý theo dõi doanh thu, cơ cấu ngành hàng, nhóm hàng và dự báo doanh thu để đưa ra quyết định kinh doanh kịp thời.  
+Các đoạn SQL và Python trong repository được trích xuất từ những dự án đã triển khai trong môi trường doanh nghiệp. Để đảm bảo tính bảo mật và tuân thủ chính sách của công ty, nhiều phần như cấu trúc hệ thống, thông tin kết nối, dữ liệu, logic nghiệp vụ và một số hàm xử lý đã được lược bỏ hoặc thay thế. Mã nguồn chỉ nhằm minh họa cách tiếp cận, quy trình xử lý và kỹ thuật thực hiện, không phải phiên bản đầy đủ của dự án.  
 
 ---
 
